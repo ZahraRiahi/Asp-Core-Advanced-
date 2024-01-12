@@ -1,0 +1,62 @@
+C:\Users\Riahi\Desktop\Session 1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Riahi\Desktop\Session 1\bin\Debug\net7.0\appsettings.json
+C:\Users\Riahi\Desktop\Session 1\bin\Debug\net7.0\Session 1.staticwebassets.runtime.json
+C:\Users\Riahi\Desktop\Session 1\bin\Debug\net7.0\Session 1.exe
+C:\Users\Riahi\Desktop\Session 1\bin\Debug\net7.0\Session 1.deps.json
+C:\Users\Riahi\Desktop\Session 1\bin\Debug\net7.0\Session 1.runtimeconfig.json
+C:\Users\Riahi\Desktop\Session 1\bin\Debug\net7.0\Session 1.dll
+C:\Users\Riahi\Desktop\Session 1\bin\Debug\net7.0\Session 1.pdb
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\Session 1.csproj.AssemblyReference.cache
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\Session 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\Session 1.AssemblyInfoInputs.cache
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\Session 1.AssemblyInfo.cs
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\Session 1.csproj.CoreCompileInputs.cache
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\Session 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\Session 1.RazorAssemblyInfo.cache
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\Session 1.RazorAssemblyInfo.cs
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\staticwebassets\msbuild.Session 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\staticwebassets\msbuild.build.Session 1.props
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Session 1.props
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Session 1.props
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\scopedcss\bundle\Session 1.styles.css
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\scopedcss\projectbundle\Session 1.bundle.scp.css
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\Session 1.dll
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\refint\Session 1.dll
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\Session 1.pdb
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\Session 1.genruntimeconfig.cache
+C:\Users\Riahi\Desktop\Session 1\obj\Debug\net7.0\ref\Session 1.dll
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\bin\Debug\net7.0\appsettings.json
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\bin\Debug\net7.0\Session 1.staticwebassets.runtime.json
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\bin\Debug\net7.0\Session 1.exe
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\bin\Debug\net7.0\Session 1.deps.json
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\bin\Debug\net7.0\Session 1.runtimeconfig.json
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\bin\Debug\net7.0\Session 1.dll
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\bin\Debug\net7.0\Session 1.pdb
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\Session 1.csproj.AssemblyReference.cache
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\Session 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\Session 1.AssemblyInfoInputs.cache
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\Session 1.AssemblyInfo.cs
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\Session 1.csproj.CoreCompileInputs.cache
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\Session 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\Session 1.RazorAssemblyInfo.cache
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\Session 1.RazorAssemblyInfo.cs
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\staticwebassets\msbuild.Session 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\staticwebassets\msbuild.build.Session 1.props
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Session 1.props
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Session 1.props
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\scopedcss\bundle\Session 1.styles.css
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\scopedcss\projectbundle\Session 1.bundle.scp.css
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\Session 1.dll
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\refint\Session 1.dll
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\Session 1.pdb
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\Session 1.genruntimeconfig.cache
+C:\Users\Riahi\Desktop\New folder (2)\Asp-Core-Advanced-plus\Session 1-MVC Structure\obj\Debug\net7.0\ref\Session 1.dll
