@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5KZ4FsMXKpmgSByWZ1+7R+9lQorGmhAl7oPMuXSs4pY=",
+  "Source": "AccessManagement.API.User",
+  "BasePath": "_content/AccessManagement.API.User",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
